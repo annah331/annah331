@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**annah331/annah331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Annah!
 
-Here are some ideas to get you started:
+I'm an aspiring front-end web developer currently learning HTML, CSS, and JavaScript through FreeCodeCamp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+- HTML & CSS – ✅ Completed
+- JavaScript – 🔁 In Progress
+- Responsive Web Design
+
+## 🎨 Creative Passion
+I’m deeply inspired by music, dance, and creativity. My goal is to build websites and digital projects that reflect both functionality and soulful design.
+
+## 🚀 Projects Coming Soon
+I’m working on beginner projects like:
+- Survey Form
+- Product Landing Page
+- Interactive JavaScript Challenges
+
+## 📫 Connect with Me
+(LinkedIn coming soon)
