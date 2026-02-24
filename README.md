@@ -16,6 +16,7 @@ My focus is on clean UI design, structured code, and continuous improvement.
 - Basic TypeScript
 - Vite
 - Git & GitHub
+- Git Desktop
 - Netlify
 - Basic API Integration
 - Responsive Design
