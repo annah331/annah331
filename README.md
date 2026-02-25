@@ -13,12 +13,15 @@ My focus is on clean UI design, structured code, and continuous improvement.
 - CSS3
 - JavaScript
 - React
-- Basic TypeScript
+- TypeScript
+- Firebase
+- NextJS
+- OpenAI API (Basic API Integration )
+- Relational Datatbase
 - Vite
 - Git & GitHub
 - Git Desktop
 - Netlify
-- Basic API Integration
 - Responsive Design
 
 ---
