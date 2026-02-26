@@ -53,6 +53,7 @@ Live: https://cloudflare-openai-api.netlify.app/
 ## 📫 Connect With Me
 - GitHub: https://github.com/annah331
 - Portfolio: https://annah-portfolio-website.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/tebogo-molekoa-670121360/
 
 ---
 
