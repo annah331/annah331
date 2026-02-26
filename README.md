@@ -16,7 +16,6 @@ My focus is on clean UI design, structured code, and continuous improvement.
 - TypeScript
 - Firebase
 - Next.js
-- Node.js
 - OpenAI API (Basic API Integration )
 - Relational Datatbase
 - Vite
