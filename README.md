@@ -20,8 +20,15 @@ With a background in **Accounting & Financial Management**, I bring strong analy
 - Vite  
 - Netlify (Deployment)  
 - Responsive Design  
-- API Integration (Cloudflare / OpenAI / other frontend APIs)  
-
+- API Integration (Cloudflare / OpenAI / other frontend APIs)
+  
+### Soft Skills & Business Knowledge
+- Accounting & Financial Management  
+- Business Management & Marketing  
+- Taxation & Business Law  
+- Economics & Quantitative Techniques  
+- Research Practice & Work Integrated Learning  
+- Accounting Systems in Business
 ---
 
 ## 🚀 Featured Projects
