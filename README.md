@@ -2,8 +2,8 @@
 
 ## 👩🏽‍💻 Junior Frontend Developer (React / Next.js)
 
-I build modern, responsive web applications using **React, Next.js, Tailwind, and JavaScript (ES6+)**.  
-My focus is on **clean UI design, component-based architecture, and creating intuitive user experiences**.
+I build modern, responsive web interfaces using **React, Next.js, Tailwind, and JavaScript (ES6+)**.  
+With a background in **Accounting & Financial Management**, I bring strong analytical and problem-solving skills to creating **clean, maintainable, creating intuitive user experiences and data-driven UIs**.
 
 ---
 
