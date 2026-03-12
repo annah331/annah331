@@ -36,8 +36,8 @@ With a background in **Accounting & Financial Management**, I bring strong analy
 ### 📌 Survey Form
 Live: [https://digital-wellness-survey05.netlify.app/](https://digital-wellness-survey05.netlify.app/)  
 
-### 📊 Interactive Dashboard
-Live: [https://dashboard0510.netlify.app/](https://dashboard0510.netlify.app/)  
+### 📊 Personal Expense Tracker
+Live: [https://personal-expense-tracker-rho-five.vercel.app/](https://personal-expense-tracker-rho-five.vercel.app/)  
 
 ### 🎲 Tenzies Game
 Live: [https://tenzies-game05.netlify.app/](https://tenzies-game05.netlify.app/)  
