@@ -1,6 +1,6 @@
 # Hi, I'm Annah 👋🏽
 
-## 👩🏽‍💻 Junior Frontend Developer (React / Next.js)
+## 👩🏽‍💻 Frontend Developer (React / Next.js)
 
 I build modern, responsive web interfaces using **React, Next.js, Tailwind, and JavaScript (ES6+)**.  
 With a background in **Accounting & Financial Management**, I bring strong analytical and problem-solving skills to creating **clean, maintainable, creating intuitive user experiences and data-driven UIs**.
@@ -60,4 +60,4 @@ Live: [https://cloudflare-openai-api.netlify.app/](https://cloudflare-openai-api
 
 ---
 
-⭐ I am actively seeking a **Junior Frontend Developer role** where I can contribute, grow, and continue building real-world React applications.
+⭐ I am actively seeking a **Frontend Developer role** where I can contribute, grow, and continue building real-world React applications.
