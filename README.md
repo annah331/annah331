@@ -14,7 +14,7 @@ With a background in **Accounting & Financial Management**, I bring strong analy
 - JavaScript (ES6+)  
 - HTML5 & CSS3  
 - Tailwind CSS  
-- TypeScript (basic)  
+- TypeScript 
 - Firebase (Authentication, Firestore, Hosting)  
 - Git & GitHub  
 - Vite  
