@@ -2,8 +2,11 @@
 
 ## 👩🏽‍💻 Frontend Developer (React / Next.js)
 
-I build modern, responsive web interfaces using **React, Next.js, Tailwind, and JavaScript (ES6+)**.  
-With a background in **Accounting & Financial Management**, I bring strong analytical and problem-solving skills to creating **clean, maintainable, creating intuitive user experiences and data-driven UIs**.
+I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications using **React, Next.js, JavaScript (ES6+), HTML, CSS, and Tailwind CSS**.
+
+With a background in **Accounting & Financial Management**, I bring strong analytical thinking, attention to detail, and problem-solving skills to software development. I enjoy creating clean, maintainable code and intuitive user experiences while continuously learning and improving my craft.
+
+My projects include personal finance applications, interactive web interfaces, and responsive frontend solutions that combine functionality, accessibility, and thoughtful design.
 
 ---
 
@@ -22,13 +25,21 @@ With a background in **Accounting & Financial Management**, I bring strong analy
 - Responsive Design  
 - API Integration (Cloudflare / OpenAI / other frontend APIs)
   
-### Soft Skills & Business Knowledge
-- Accounting & Financial Management  
-- Business Management & Marketing  
-- Taxation & Business Law  
-- Economics & Quantitative Techniques  
-- Research Practice & Work Integrated Learning  
+### Finance & Business Knowledge
+- Accounting 
+- Financial Management  
+- Business Management
+- Marketing  
+- Taxation
+- Business Law  
+- Economics
+- Quantitative Techniques  
+- Research Practice
+- Work Integrated Learning  
 - Accounting Systems in Business
+- Financial Data Interpretation
+- Budgeting Principles
+- Business Analysis
 ---
 
 ## 🚀 Featured Projects
@@ -60,4 +71,5 @@ Live: [https://cloudflare-openai-api.netlify.app/](https://cloudflare-openai-api
 
 ---
 
-⭐ I am actively seeking a **Frontend Developer role** where I can contribute, grow, and continue building real-world React applications.
+⭐ I am actively seeking opportunities as a **Frontend Developer**, with a particular interest in building solutions that combine technology, business, and finance to solve real-world problems.
+
