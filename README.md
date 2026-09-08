@@ -81,6 +81,8 @@ A digital finance project that applies taxation concepts to estimate tax obligat
 
 **Technologies:** React · Next.js · TypeScript · Tailwind CSS
 
+**Live Demo:** https://personal-tax-calculator-alpha.vercel.app/
+
 ---
 
 ### 📝 Survey Form
